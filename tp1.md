@@ -1,6 +1,6 @@
 # TP1 : Premiers pas sur Mongo
 
-> NB : Pour réaliser ce TP chez vous, vous devez avoir installé le serveur Mongo, ainsi que Compass et le Shell. Les instructions sont disponibles sur [cette page](index.md).
+> NB : Pour réaliser ce TP chez vous, vous devez avoir installé le serveur Mongo, ainsi que Compass et le Shell.
 
 ## Intégration de données de type `JSON`
 
